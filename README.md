@@ -1,11 +1,6 @@
 # Week-1
 This is a data analysis of country - specific data for predicting CO2 emissions.
 
-hatGPT
-You said:
-Write a readme file for data analysis on climate change data by world bank group 
-ChatGPT said:
-Here's a sample README.md file for a GitHub repository containing a climate change data analysis project based on data from the World Bank Group:
 
 🌍 Climate Change Data Analysis | World Bank Group
 This repository contains an in-depth analysis of climate change indicators using datasets provided by the World Bank Group. The goal of this project is to explore global climate trends, identify environmental challenges, and provide actionable insights through data visualization and statistical analysis.
